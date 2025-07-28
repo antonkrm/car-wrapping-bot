@@ -1,0 +1,6 @@
+config.py
+carwrap.db
+venv/
+__pycache__/
+*.pdf
+*.tar.bz2
